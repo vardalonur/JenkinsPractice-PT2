@@ -49,7 +49,6 @@ public class JenkinsTest {
 	void Test11(){
 		assertTrue(true);
 	}
-
 	@Test
 	void Test12(){
 		assertTrue(true);
