@@ -62,4 +62,4 @@ public class JenkinsTest {
 		assertTrue(true);
 	}
 }
-/*onur aaaasdfaasasdasdasdasasdfasdfadasdafasasdasddf*/
+/*onur test test*/
